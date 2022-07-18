@@ -1,1 +1,1 @@
-# For Sustainable Blockchain Summit Hackathon
+# For Sustainable Blockchain Hackathon
