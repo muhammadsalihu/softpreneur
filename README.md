@@ -6,7 +6,7 @@ Connected to a custom domain: www.softpreneur.xyz
 
 # Softpreneur
 
-- This Project Dedicated to Ibrahim Abdulrahman (Former CEO of Motionwares who sadly passed away last year)
+- This Project is dedicated to Ibrahim Abdulrahman (Former CEO of Motionwares who sadly passed away last year)
 
 - Here is a tribute video dedicated to Ibrahim by the Motionwares Family: https://www.youtube.com/watch?v=6JwXWBc0SuM&t=3s
 
