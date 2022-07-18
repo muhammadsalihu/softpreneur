@@ -16,7 +16,7 @@ Connected to a custom domain: www.softpreneur.xyz
 
 - In Future Iteration of this project, his works will be minted as an NFT and deployed to the Blockchain. 
 
-The Next Iteration of this project will be to build MotionwaresDAO as a Network State (Inspired by Balajis work). 
+The Next Iteration of this project will also be to build MotionwaresDAO as a Network State (Inspired by Balajis work). 
 
 The following resources will be utilised as a sequel to build upon this work:
 - https://thenetworkstate.com/
