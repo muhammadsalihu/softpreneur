@@ -4,15 +4,17 @@ Project deployed on Fleek: polished-boat-2704.on.fleek.co
 
 Connected to a custom domain: www.softpreneur.xyz
 
-This Project Dedicated to Ibrahim Abdulrahman (Former CEO of Motionwares who sadly passed away last year)
+# Softpreneur
 
-Here is a tribute video dedicated to Ibrahim by the Motionwares Family: https://www.youtube.com/watch?v=6JwXWBc0SuM&t=3s
+- This Project Dedicated to Ibrahim Abdulrahman (Former CEO of Motionwares who sadly passed away last year)
 
-If you come across this ReadMe, please say a prayer for Ibrahim. He was a great Leader who advocated for the culture of Inifinite Game (https://www.kernel.community/en/build/games/infinite/)
+- Here is a tribute video dedicated to Ibrahim by the Motionwares Family: https://www.youtube.com/watch?v=6JwXWBc0SuM&t=3s
 
-I encourage you to take a look at this Instagram Page, most especially the captions on his personal posts. 
+- If you come across this ReadMe, please say a prayer for Ibrahim. He was a great Leader who advocated for the culture of Inifinite Game (https://www.kernel.community/en/build/games/infinite/)
 
-In Future Iteration of this project, his works will be minted as an NFT and deployed to the Blockchain. 
+- I encourage you to take a look at this Instagram Page, most especially the captions on his personal posts. 
+
+- In Future Iteration of this project, his works will be minted as an NFT and deployed to the Blockchain. 
 
 The Next Iteration of this project will be to build MotionwaresDAO as a Network State (Inspired by Balajis work). 
 
