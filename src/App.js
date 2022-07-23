@@ -152,9 +152,13 @@ function App() {
 
   const determine_co2_save = () => { }
 
+  const connectWallet = () => {
+    window.alert("Connect Wallet")
+  }
   return (
 
     <div className="App">
+      <button onClick={connectWallet}>Connect Wallet</button>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
