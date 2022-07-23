@@ -2,8 +2,6 @@ import {
   useAccount,
   useConnect,
   useDisconnect,
-  // useEnsAvatar,
-  // useEnsName,
 } from 'wagmi'
 
 export function Profile() {

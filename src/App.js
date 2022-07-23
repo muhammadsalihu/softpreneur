@@ -3,7 +3,6 @@ import logo from './logo.png';
 import './App.css';
 
 //components
-// import ConnectWallet from "./components/ConnectWallet";
 import Profile from "./components/Profile";
 
 import {
@@ -19,7 +18,7 @@ import { publicProvider } from 'wagmi/providers/public'
 // import { CoinbaseWalletConnector } from 'wagmi/connectors/coinbaseWallet'
 // import { InjectedConnector } from 'wagmi/connectors/injected'
 import { MetaMaskConnector } from 'wagmi/connectors/metaMask'
-// import { WalletConnectConnector } from 'wagmi/connectors/walletConnect'
+import { WalletConnectConnector } from 'wagmi/connectors/walletConnect'
 
 const alchemyId = process.env.ALCHEMY_ID
 
@@ -35,6 +34,12 @@ const client = createClient({
   autoConnect: true,
   connectors: [
     new MetaMaskConnector({ chains }),
+    new WalletConnectConnector({
+      chains,
+      options: {
+        qrcode: true,
+      },
+    }),
   ],
   provider,
   webSocketProvider,

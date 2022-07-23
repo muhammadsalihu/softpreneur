@@ -32,7 +32,9 @@
   background-color: black;
   color: white;
   border-radius: 10px;
-  border: 10px solid #FD6A02;
+  border: 2px solid #FD6A02;
+  display: block;
+  margin-bottom: 20px;
   cursor: pointer;
 }
 
