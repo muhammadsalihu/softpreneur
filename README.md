@@ -4,6 +4,8 @@ Project deployed on Fleek: polished-boat-2704.on.fleek.co
 
 Connected to a custom domain: www.softpreneur.xyz
 
+Support Softpreneur's mission as a digital public good by donating to our grant on Gitcoin: https://gitcoin.co/grants/6956/softpreneur-research-and-development
+
 # Softpreneur
 
 - This Project is dedicated to Ibrahim Abdulrahman (Former CEO of Motionwares who sadly passed away last year)
