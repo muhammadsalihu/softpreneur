@@ -27,6 +27,7 @@ export function Profile() {
         <div className='App-Header'>
           <h3>Checklist</h3>
           <li>Build Things That Don't Scale</li>
+          {/* Connect with MUSAJ instead of Connect with Metamask or WalletConnect */}
           <li><i><a href="https://developer.tbd.website/docs/Decentralized%20Web%20Platform%20-%20Public.pdf">My Vision: Identity Wallet</a></i></li>
         </div>
       </div>
