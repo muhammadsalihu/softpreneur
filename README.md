@@ -1,4 +1,4 @@
-# For Sustainable Blockchain Hackathon
+# For LUKSO Build UP! #1 Hackathon
 
 Project deployed on Fleek: polished-boat-2704.on.fleek.co
 
