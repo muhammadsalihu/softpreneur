@@ -71,13 +71,35 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Calculate Green Reputation Score
+            Github
           </a>
 
           <a className="App-link"
             href="https://gitcoin.co/issue/29012"
             target="_blank"
             rel="noopener noreferrer">Sustainable Blockchain Hackathon Brief On Gitcoin</a>
+
+          <a className="App-link"
+            href="https://gitcoin.co/issue/29162"
+            target="_blank"
+            rel="noopener noreferrer">Lusko BuildUP#1 Multiverse and Gaming</a>
+
+          <a className="App-link"
+            href="https://musaj.gumroad.com/l/multiverse-and-gaming"
+            target="_blank"
+            rel="noopener noreferrer">Preorder Book on Multiverse and Gaming \n Case studies on Multi Agent Systems</a>
+
+          <a className="App-link"
+            href="https://research.softpreneur.xyz/invitation?code=8BFBJC"
+            target="_blank"
+            rel="noopener noreferrer">Join Communinity</a>
+
+          <a className="App-link"
+            href="https://twitter.com/Iam_Musaj/status/1558122521836371969?s=20&t=10f0xsqE2c7FlZvhFxofJg"
+            target="_blank"
+            rel="noopener noreferrer">Research Activities</a>
+
+
 
           <br />
           <Profile />
