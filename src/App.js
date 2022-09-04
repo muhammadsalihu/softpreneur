@@ -56,7 +56,7 @@ function App() {
           {/* <img src={logo} className="App-logo" alt="logo" /> */}
 
           <br />
-          <h3>MotionwaresDAO</h3>
+          <h3>MotionwaresDAO.</h3>
 
           <p>Communinity</p>
           <a className="App-link"
