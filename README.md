@@ -1,6 +1,6 @@
 # Building a Network State
 
-Project deployed on [Fleek](https://app.fleek.co/): [polished-boat-2704.on.fleek.co](polished-boat-2704.on.fleek.co)
+Project deployed on [Fleek](https://app.fleek.co/): [https://polished-boat-2704.on.fleek.co/](https://polished-boat-2704.on.fleek.co/)
 
 Connected to a custom domain: www.softpreneur.xyz
 
