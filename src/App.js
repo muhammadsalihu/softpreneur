@@ -53,16 +53,24 @@ function App() {
     <div className="App">
       <WagmiConfig client={client}>
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          {/* <img src={logo} className="App-logo" alt="logo" /> */}
+
           <br />
-          <br />
+          <h3>MotionwaresDAO</h3>
+
+          <p>Communinity</p>
+          <a className="App-link"
+            href="https://research.softpreneur.xyz/invitation?code=8BFBJC"
+            target="_blank"
+            rel="noopener noreferrer">Join Communinity</a>
+
           <a
             className="App-link"
             href="https://gitcoin.co/grants/5645/motionwaresdao"
             target="_blank"
             rel="noopener noreferrer"
           >
-            MotionwaresDAO
+            Donate on Gitcoin
           </a>
 
           <a
@@ -71,9 +79,11 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Github
+            Contribute on Github
           </a>
 
+
+          <p>Hackathons</p>
           <a className="App-link"
             href="https://gitcoin.co/issue/29012"
             target="_blank"
@@ -82,26 +92,22 @@ function App() {
           <a className="App-link"
             href="https://gitcoin.co/issue/29162"
             target="_blank"
-            rel="noopener noreferrer">Lusko BuildUP#1 Multiverse and Gaming</a>
+            rel="noopener noreferrer">Lusko BuildUP#1 Multiverse and Gaming Brief On Gitcoin</a>
 
+
+          <p>Book</p>
           <a className="App-link"
             href="https://musaj.gumroad.com/l/multiverse-and-gaming"
             target="_blank"
-            rel="noopener noreferrer">Preorder Book on Multiverse and Gaming \n Case studies on Multi Agent Systems</a>
+            rel="noopener noreferrer">Preorder Book on Multiverse and Gaming: Case studies on Multi Agent Systems</a>
 
-          <a className="App-link"
-            href="https://research.softpreneur.xyz/invitation?code=8BFBJC"
-            target="_blank"
-            rel="noopener noreferrer">Join Communinity</a>
 
+
+          <p>Research</p>
           <a className="App-link"
             href="https://twitter.com/Iam_Musaj/status/1558122521836371969?s=20&t=10f0xsqE2c7FlZvhFxofJg"
             target="_blank"
             rel="noopener noreferrer">Research Activities</a>
-
-
-
-          <br />
           <Profile />
         </header>
       </WagmiConfig>
