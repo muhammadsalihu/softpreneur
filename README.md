@@ -12,7 +12,7 @@ Support MotionwaresDAO's mission of creating digital public goods by donating to
 
 - Here is a tribute video dedicated to Ibrahim by the Motionwares Family: https://www.youtube.com/watch?v=6JwXWBc0SuM&t=3s
 
-- If you come across this ReadMe, please say a prayer for Ibrahim. He was a great Leader who advocated for the culture of Inifinite Game (https://www.kernel.community/en/build/games/infinite/)
+- If you come across this ReadME, please say a prayer for Ibrahim. He was a great Leader who advocated for the culture of Inifinite Game (https://www.kernel.community/en/build/games/infinite/)
 
 - I encourage you to take a look at his Instagram Page(https://www.instagram.com/softpreneur/), most especially the captions on his personal posts. 
 
