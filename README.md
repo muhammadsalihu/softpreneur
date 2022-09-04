@@ -1,10 +1,10 @@
 # Building a Network State
 
-Project deployed on Fleek: polished-boat-2704.on.fleek.co
+Project deployed on [Fleek](https://app.fleek.co/): polished-boat-2704.on.fleek.co
 
 Connected to a custom domain: www.softpreneur.xyz
 
-Support MotionwaresDAO's mission of creating digital public goods by donating to our grant on Gitcoin: https://gitcoin.co/grants/5645/motionwaresdao
+Support MotionwaresDAO's mission of onboarding the next generation of builders by donating grant on Gitcoin: https://gitcoin.co/grants/5645/motionwaresdao
 
 # Softpreneur
 
