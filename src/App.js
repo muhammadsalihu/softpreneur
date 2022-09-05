@@ -58,11 +58,11 @@ function App() {
           <br />
           <h3>MotionwaresDAO.</h3>
 
-          <p>Communinity</p>
+          <p>Community</p>
           <a className="App-link"
             href="https://research.softpreneur.xyz/invitation?code=8BFBJC"
             target="_blank"
-            rel="noopener noreferrer">Join Communinity</a>
+            rel="noopener noreferrer">Community</a>
 
           <a
             className="App-link"
