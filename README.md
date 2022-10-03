@@ -27,3 +27,8 @@ The following resources will be utilised as a sequel to build upon this work:
 - https://techcrunch.com/2022/06/20/afropolitan-raises-2-1m-to-build-a-digital-nation-backed-by-balaji-srinivasan/
 
 
+Formula Airbills.
+
+Productize Yourself.
+
+Lets Build a Public Good to Seed The Network State
